@@ -1,14 +1,7 @@
-/*
- * 010i2c_master_tx_testing.c
- *
- *  Created on: Feb 24, 2019
- *      Author: admin
- */
-
 
 #include<stdio.h>
 #include<string.h>
-#include "stm32f407xx.h"
+#include "stm32f446xx.h"
 
 //extern void initialise_monitor_handles();
 
